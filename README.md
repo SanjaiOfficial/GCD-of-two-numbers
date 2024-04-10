@@ -28,8 +28,8 @@ def gcd():
 
 ## Output:
 
-![Screenshot 2024-04-06 204436](https://github.com/SanjaiOfficial/GCD-of-two-numbers/assets/151763180/26fc1463-b382-47cd-8f05-fcef26f60de9)
-![Screenshot 2024-04-06 204451](https://github.com/SanjaiOfficial/GCD-of-two-numbers/assets/151763180/9fd80798-9e02-4128-bc27-80507f3090c4)
+![image](https://github.com/SanjaiOfficial/GCD-of-two-numbers/assets/151763180/f427ff2c-3124-48d4-84c4-4740ca16e5b1)
+
 
 
 ## Result:
